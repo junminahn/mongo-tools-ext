@@ -17,7 +17,7 @@ require (
 	go.mongodb.org/mongo-driver v1.17.2
 	go.mongodb.org/mongo-driver/v2 v2.0.0
 	golang.org/x/oauth2 v0.26.0
-	google.golang.org/api v0.211.0
+	google.golang.org/api v0.221.0
 )
 
 require (
